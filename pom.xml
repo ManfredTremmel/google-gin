@@ -3,9 +3,9 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.gwtplus.gin</groupId>
+  <groupId>de.knightsoft-net</groupId>
   <artifactId>gin</artifactId>
-  <version>HEAD-SNAPSHOT</version>
+  <version>4.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Gin</name>
@@ -92,9 +92,9 @@
   </ciManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/gwtplus/google-gin.git</connection>
-    <developerConnection>scm:git:https://github.com/gwtplus/google-gin.git</developerConnection>
-    <url>https://github.com/gwtplus/google-gin</url>
+    <connection>scm:git:https://github.com/ManfredTremmel/google-gin.git</connection>
+    <developerConnection>scm:git:https://github.com/ManfredTremmel/google-gin.git</developerConnection>
+    <url>https://github.com/ManfredTremmel/google-gin</url>
     <tag>HEAD</tag>
   </scm>
 
